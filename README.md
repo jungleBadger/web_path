@@ -54,14 +54,14 @@
 ### Infra/DevOps
 1. GIT
 2. Github
-4. Platform as a Service `bluemix`
+4. Platform as a Service - PaaS `bluemix`
 5. Containers `docker`
 6. Task Runners `gulp`, `webpack`, `rollup`
 
 
 
 #### Web communication
-1. Client/server
+1. Client/server communication
 2. HTTP/HTTPS
 3. REST API
 4. WebSocket / p2p communication
@@ -77,6 +77,8 @@
 5. Node without frameworks
 6. Express.js as framework
 7. middlewares
+8. Consuming APIs
+8. Building APIs
 
 
 ### CSS Advanced
